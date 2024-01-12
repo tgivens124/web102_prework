@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='"C:\Users\tgive\Desktop\CS Projects\web102_prework\Animation.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='"https://github.com/tgivens124/web102_prework/blob/main/Animation.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ScreenToGif
