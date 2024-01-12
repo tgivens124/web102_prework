@@ -1,4 +1,11 @@
 // Image credits: Kickstarter
+//OOZEdiveTRAPpine
+//6games-container.stats-card15
+//11seafoamGAMES_JSON
+//19187800268BRAIN
+//74FLANNELclick
+//toLocaleString<div>1ivy
+//ZooHowCEDAR
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",
@@ -89,7 +96,7 @@ const games = ` [
     "img": "./assets/kingdom_death.png"
   }
 ]
-`
+`;
 const template = `
 {
 "name": "",
@@ -99,6 +106,6 @@ const template = `
 "backers": 0,
 "img": ""
 },
-`
+`;
 
 export default games;
