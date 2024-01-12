@@ -1,4 +1,4 @@
-# WEB102 Prework - *CrowdFunder *
+# WEB102 Prework - *CrowdFunder*
 
 Submitted by: **Taylor Givens**
 
